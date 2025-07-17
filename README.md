@@ -21,7 +21,7 @@ This project focuses on testing the *Menu Page* and other navigational component
 qa-tepak-automation/
 │
 ├── tests/ # Contains test scripts
-│ └── test_menu_page.py
+│ └── test_dashboard.py
 │
 ├── drivers/ # Contains ChromeDriver
 │ └── chromedriver.exe
