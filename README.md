@@ -13,7 +13,7 @@ This project focuses on testing the *Menu Page* and other navigational component
 ## 📸 Preview
 > Sample Test: Check all menu items appear and display names correctly
 
-![Screenshot]
+![Screenshot] https://github.com/rheaanjani/QA-Automation/issues/1#issue-3237962877
 
 ---
 
